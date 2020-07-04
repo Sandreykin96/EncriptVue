@@ -25,14 +25,14 @@
   margin-top: 60px;
 }
    ul.hr {
-    margin: 0; /* Обнуляем значение отступов */
-    padding: 4px; /* Значение полей */
+    margin: 0;
+    padding: 4px;
     text-align: right;
    }
    ul.hr li {
-    display: inline; /* Отображать как строчный элемент */
-    margin-right: 5px; /* Отступ слева */
-    border: 1px solid #000; /* Рамка вокруг текста */
-    padding: 3px; /* Поля вокруг текста */
+    display: inline;
+    margin-right: 5px;
+    border: 1px solid #000; 
+    padding: 3px;
    }
 </style>

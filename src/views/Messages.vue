@@ -36,7 +36,6 @@ export default {
       .then(response => response.json())
       .then(json => {
         this.messages = json;
-        console.log(json);
         this.loading = false;
       });
   },
